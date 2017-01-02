@@ -1,2 +1,1 @@
-This is a simple Sina-spider program.
-hello,small kitty!
+This is a simple Sina-spider program.Obtain sina-blog by parsing html text
